@@ -59,7 +59,7 @@ const IndexPage = () => (
           <div className="row">
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="https://fitengineeringsurvey.com/" className="image fit">
+                <a target="_blank" rel="noreferrer" href="https://fitengineeringsurvey.com/" className="image fit">
                   <img src={pic2} alt="" />
                 </a>
                 <header>
@@ -67,7 +67,7 @@ const IndexPage = () => (
                 </header>
               </article>
               <article className="item">
-                <a href="https://covid19iinfo.netlify.app" className="image fit">
+                <a target="_blank" rel="noreferrer" href="https://covid19iinfo.netlify.app" className="image fit">
                   <img src={pic3} alt="" />
                 </a>
                 <header>
@@ -77,7 +77,7 @@ const IndexPage = () => (
             </div>
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="https://weatheriinfo.netlify.app/" className="image fit">
+                <a target="_blank" rel="noreferrer" href="https://weatheriinfo.netlify.app/" className="image fit">
                   <img src={pic4} alt="" />
                 </a>
                 <header>
@@ -85,7 +85,7 @@ const IndexPage = () => (
                 </header>
               </article>
               <article className="item">
-                <a href="https://condescending-yonath-2d2843.netlify.app" className="image fit">
+                <a target="_blank" rel="noreferrer" href="https://condescending-yonath-2d2843.netlify.app" className="image fit">
                   <img src={pic5} alt="" />
                 </a>
                 <header>
@@ -95,7 +95,7 @@ const IndexPage = () => (
             </div>
             <div className="col-4 col-12-mobile">
               <article className="item">
-                <a href="https://github.com/vivekshubhu/vanilla-js-carousel" className="image fit">
+                <a target="_blank" rel="noreferrer" href="https://github.com/vivekshubhu/vanilla-js-carousel" className="image fit">
                   <img src={pic6} alt="" />
                 </a>
                 <header>
@@ -103,7 +103,7 @@ const IndexPage = () => (
                 </header>
               </article>
               <article className="item">
-                <a href="https://github.com/vivekshubhu/user-roles-laravel" className="image fit">
+                <a target="_blank" rel="noreferrer" href="https://github.com/vivekshubhu/user-roles-laravel" className="image fit">
                   <img src={pic7} alt="" />
                 </a>
                 <header>
