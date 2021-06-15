@@ -126,7 +126,7 @@ const IndexPage = () => (
           </a>
 
           <p>
-            I am a full stack web developer, been working about 1 year plus with Laravel
+            I am a full stack web developer, been working about 3 years with Laravel
             and Vue Js. Now I am learing React, Next js, gatsby, graphQl, node.
             I am also interested in UI design and learing to design in Figma. 
           </p>
